@@ -25,7 +25,7 @@ Set up a Google Analytics account for MyWebClass and generate a tracking code th
 * The tracking code may not be implemented properly, resulting in inaccurate data collection
 * The Google Analytics account may not be set up correctly, resulting in incomplete data collection
 
-## Estimated Effort: 6
+## Estimated Effort: 6 hours
 
 ## Business Value: 
 Setting up Google Analytics will provide valuable insights into website traffic, user behavior, and engagement metrics, enabling MyWebClass to make data-driven decisions that improve the user experience and drive business growth.
