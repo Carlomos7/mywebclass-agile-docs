@@ -64,4 +64,4 @@ Analytics data are within the scope of this initiative.
 * Marketing team
 
 # Epics related to this initiative
-1. [Set up Google Analytics account and tracking code](../../../../../Desktop/mywebclass-agile-docs-7-feat-my-agile-documentation/mywebclass-agile-docs-7-feat-my-agile-documentation/documentation/theme_1/initiatives/epics/epic_analytics_tracking.md)
+1. [Set up Google Analytics account and tracking code](epics/epic_analytics_tracking.md)
