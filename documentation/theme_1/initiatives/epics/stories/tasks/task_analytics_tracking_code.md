@@ -1,0 +1,8 @@
+- Task Title: Generate Tracking Code
+- User Story: As a website owner, I want to generate a tracking code for the website so that I can collect relevant data.
+- Description:  The marketing team needs to generate a tracking code from the Google Analytics account and insert it into the website HTML code. The acceptance criteria are that a tracking code is generated, inserted into the website code, and tested to be working properly. The task is dependent on the Google Analytics account being set up and the website HTML code being accessible.
+- Effort Estimate:  1 hour
+- Assigned To:  Marketing Team
+- Priority: High
+- Status: Not Started
+- Notes:  The marketing team should coordinate with the website development team to ensure the tracking code is inserted in the correct place in the website code. They should also coordinate with the website testing team to ensure that the tracking code is working properly and that data is being collected as expected.
