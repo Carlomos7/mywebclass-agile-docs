@@ -6,9 +6,9 @@ establish a solid foundation that ensures MyWebClass meets our business requirem
 setting us up for long-term success.
 ## Initiative(s)
 
-* [Implement Google Analytics to track website traffic, user behavior, and engagement metrics.](../../../../Desktop/mywebclass-agile-docs-7-feat-my-agile-documentation/mywebclass-agile-docs-7-feat-my-agile-documentation/documentation/theme_1/initiatives/initiative_Google_Analytics.md)
+* [Implement Google Analytics to track website traffic, user behavior, and engagement metrics.](initiatives/initiative_Google_Analytics.md)
 * [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
-* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](../../../../Desktop/mywebclass-agile-docs-7-feat-my-agile-documentation/mywebclass-agile-docs-7-feat-my-agile-documentation/documentation/theme_1/initiatives/initiative_devops.md)
+* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
 * [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
 
 * Monitoring to continuously improve the quality of our project
