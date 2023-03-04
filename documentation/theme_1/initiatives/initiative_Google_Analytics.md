@@ -31,6 +31,7 @@ Analytics data are within the scope of this initiative.
 * Goals and alerts configured
 * Customized reports configured and available to the team
 * Team trained on how to interpret and use Google Analytics data
+* Recommendations for website content and user experience optimization
 
 ## Milestones:
 * Google Analytics tracking code implemented on website (1 week)
