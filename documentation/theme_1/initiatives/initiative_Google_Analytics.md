@@ -39,6 +39,7 @@ Analytics data are within the scope of this initiative.
 * Goals and alerts configured (4 weeks)
 * Customized reports configured and available to the team (5 weeks)
 * Team trained on how to interpret and use Google Analytics data (6 weeks)
+* Optimization of website content and user experience - 4 weeks
 
 ## Constraints:
 * Website design and layout cannot be significantly altered
